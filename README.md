@@ -17,7 +17,7 @@ But for starters, run
 
 ```
 $ npm install
-$ npm run
+$ npm start
 ```
 
 ## Known issues
